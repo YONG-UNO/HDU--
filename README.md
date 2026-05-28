@@ -11,3 +11,5 @@
 
 ## 使用方法
 1. 安装依赖：
+2. pip install playwright requests
+playwright install chrome
