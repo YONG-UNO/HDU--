@@ -3,10 +3,10 @@ import random
 import re
 import requests
 
-username = "24150729"
-password = "tihR1023"
+username = "你的HDU账号"
+password = "你的HDU密码"
 
-API_KEY = "sk-1b50cf015c6546fc916346508abee2a2"
+API_KEY = "YOUR API_KEY"
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 手机 UA（iPhone 15 Safari）
