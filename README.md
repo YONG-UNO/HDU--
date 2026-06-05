@@ -11,5 +11,14 @@
 
 ## 使用方法
 1. 安装依赖：
-2. pip install playwright requests
-playwright install chrome
+2. pip install playwright requests -i https://pypi.tuna.tsinghua.edu.cn/simple
+   playwright install chrome
+3. 修改以下配置:
+- username = "你的HDU账号"
+- password = "你的HDU密码"
+
+- API_KEY = "YOUR API_KEY"
+4.
+- DeepSeek Key 获取教程
+- 打开 DeepSeek 开放平台官网注册账号：https://platform.deepseek.com/
+- 个人中心→API Keys→创建密钥，复制密钥粘贴到代码API_KEY；新用户赠送免费额度，足够日常刷题。
